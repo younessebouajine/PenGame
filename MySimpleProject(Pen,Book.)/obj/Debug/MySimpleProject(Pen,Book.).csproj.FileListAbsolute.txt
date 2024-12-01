@@ -1,0 +1,10 @@
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\bin\Debug\MySimpleProject(Pen,Book.).exe.config
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\bin\Debug\MySimpleProject(Pen,Book.).exe
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\bin\Debug\MySimpleProject(Pen,Book.).pdb
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject(Pen,Book.).csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject_Pen_Book._.Form1.resources
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject_Pen_Book._.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject(Pen,Book.).csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject(Pen,Book.).csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject(Pen,Book.).exe
+C:\Users\Administrateur\source\repos\MySimpleProject(Pen,Book.)\obj\Debug\MySimpleProject(Pen,Book.).pdb
